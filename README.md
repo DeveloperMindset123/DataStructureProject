@@ -42,7 +42,7 @@
  
  -  The following image shows how an array of linked list works to keep track of the section and the student within that section compring of linked list of nodes.
  
- ![Array Of Linked List Visual](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Adjacencylist_array_of_linkedlists_undirectedgraph.svg/1280px-Adjacencylist_array_of_linkedlists_undirectedgraph.svg.png)
+ ![Array Of Linked List Visual](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Adjacencylist_array_of_linkedlists_undirectedgraph.svg/1280px-Adjacencylist_array_of_linkedlists_undirectedgraph.svg.png#light-mode)
   
   
 
